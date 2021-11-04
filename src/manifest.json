@@ -1,13 +1,15 @@
 {
-  "name": "IWDYM - I Will Delete Your Music from VK.com",
-  "description": "I Will Delete Your Music. Application for quickly deleting all music from VK.com",
+  "name": "__MSG_extName__",
+  "description": "__MSG_extDescription__",
   "version": "1.0.0",
   "manifest_version": 3,
+  "default_locale": "ru",
   "action": {
     "default_icon": {
       "16": "images/logo_16.png",
       "32": "images/logo_32.png"
-    }
+    },
+    "default_popup": "popup.html"
   },
   "icons": {
     "16": "images/logo_16.png",
