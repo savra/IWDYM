@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Я удалю твою музыку из Вконтакте!",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "Я удалю твою музыку из Вконтакте. Приложение для быстрого удаления музыки для социальной сети Вконтакте.",
+    "description": "Extension description"
+  }
+}
