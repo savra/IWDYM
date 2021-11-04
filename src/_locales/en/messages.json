@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "IWDYM - I Will Delete Your Music from VK.com",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "I Will Delete Your Music. Application for quickly deleting all music from VK.com",
+    "description": "Extension description"
+  }
+}
